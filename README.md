@@ -35,5 +35,6 @@ The **Vehicle Management System** is a Python-based GUI application for managing
 ## **Connect with me**  
 - 🌐 [GitHub Profile](https://github.com/ShubhamKumar0786https://github.com/ShubhamKumar0786)  
 - 📧 Email:shubhamkashyap9501@gmail.com
-- Linkedin :[Linkedin_link](https://www.linkedin.com/in/shubham9797/)
+- LinkedIn: [Linkedin_link](https://www.linkedin.com/in/shubham0786/)
+
 
